@@ -5,7 +5,7 @@
 <description>Appcast for Example app updates.</description>
 <language>en</language>
 <item>
-<title>Version 1.5.4</title>
+<title>Version 1.5.6</title>
 <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 15 Sep 2012 18:11:12 +0200</pubDate>
 <enclosure url="https://winsparkle.org/example/Poedit-1.8.8-setup.exe" sparkle:version="1.8.8" sparkle:dsaSignature="MEQCICh10SofkNHa5iJgVWDi2O8RBYyN+nxkFEL7u/tBuWboAiB6VOV/WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
