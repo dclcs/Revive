@@ -5,10 +5,10 @@
 <description>Appcast for Example app updates.</description>
 <language>en</language>
 <item>
-<title>Version 130.0.6723.93</title>
+<title>Version 131.0.6723.93</title>
 <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 15 Sep 2024 18:11:12 +0200</pubDate>
-<enclosure url="https://winsparkle.org/example/Poedit-1.8.8-setup.exe" sparkle:version="130.0.6723.93" sparkle:dsaSignature="MD0CHQCBGX7rBxVD/WxSn+fyX0fQZFaCsSjIFBNVlte4AhxFu7wWrNDQwzICiVFhHZJHhBCSt3pYov63IYlq" type="application/octet-stream"/>
+<enclosure url="https://winsparkle.org/example/Poedit-1.8.8-setup.exe" sparkle:version="131.0.6723.93" sparkle:dsaSignature="MD0CHQCBGX7rBxVD/WxSn+fyX0fQZFaCsSjIFBNVlte4AhxFu7wWrNDQwzICiVFhHZJHhBCSt3pYov63IYlq" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
