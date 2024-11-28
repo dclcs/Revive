@@ -8,7 +8,7 @@
 <title>Version 131.0.6723.93</title>
 <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 15 Sep 2024 18:11:12 +0200</pubDate>
-<enclosure url="https://winsparkle.org/example/Poedit-1.8.8-setup.exe" sparkle:version="131.0.6723.93" sparkle:dsaSignature="MD0CHQCBGX7rBxVD/WxSn+fyX0fQZFaCsSjIFBNVlte4AhxFu7wWrNDQwzICiVFhHZJHhBCSt3pYov63IYlq" type="application/octet-stream"/>
+<enclosure url="https://winsparkle.org/example/Poedit-1.8.8-setup.exe" sparkle:version="131.0.6723.93" sparkle:dsaSignature="MD0CHQCUcF/mMATTida/QiuOzjA0f2Gcpe2yBaUI0KKtAhx0LXix5sR+v60AnQs/N8rFVzAEbuDfVe5xsAjg" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
