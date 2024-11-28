@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Example app updates</title>
+<link>http://winsparkle.org/example/appcast.xml</link>
+<description>Appcast for Example app updates.</description>
+<language>en</language>
+<item>
+<title>Version 131.0.6723.93</title>
+<sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
+<pubDate>Tue, 15 Sep 2024 18:11:12 +0200</pubDate>
+<enclosure url="https://raw.githubusercontent.com/dclcs/Revive/master/Debug.zip" sparkle:version="131.0.6723.93" sparkle:dsaSignature="MD0CHQCUcF/mMATTida/QiuOzjA0f2Gcpe2yBaUI0KKtAhx0LXix5sR+v60AnQs/N8rFVzAEbuDfVe5xsAjg" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
