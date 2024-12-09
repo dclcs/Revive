@@ -8,7 +8,7 @@
 <title>Version 131.0.6723.93</title>
 <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 15 Sep 2024 18:11:12 +0200</pubDate>
-<enclosure url="https://raw.githubusercontent.com/dclcs/Revive/master/Debug.zip" sparkle:version="131.0.6723.93" sparkle:dsaSignature="MDwCHEZEvKL8kTqflNoG2wFHujMpu0iZBgrIYk99CoUCHGJuO5v1rAIl6SZDXTRZ6u51GZDLufDFn+b8J5A=" type="application/octet-stream"/>
+<enclosure url="https://raw.githubusercontent.com/dclcs/Revive/master/11.zip" sparkle:version="131.0.6723.93" sparkle:dsaSignature="MDwCHEZEvKL8kTqflNoG2wFHujMpu0iZBgrIYk99CoUCHGJuO5v1rAIl6SZDXTRZ6u51GZDLufDFn+b8J5A=" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
